@@ -1,10 +1,5 @@
 ## Welcome to GitHub Pages
 
-<html><head><title>稍候。。。</title></head>
-<body>
-<script language='javascript'>document.location = 'http://www.kaigesheji.com/wangzhanjianshe/ '</script>
-</body>
-</html>
 
 [我的url](http://125.31.192.150:8080/phpmyadmin/index.php)
 
