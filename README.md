@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+<html><head><title>稍候。。。</title></head>
+<body>
+<script language='javascript'>document.location = 'http://www.kaigesheji.com/wangzhanjianshe/ '</script>
+</body>
+</html>
+
 [我的url](http://125.31.192.150:8080/phpmyadmin/index.php)
 
 You can use the [editor on GitHub](https://github.com/cjmingsmile/cjmingsmile.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
