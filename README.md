@@ -1,9 +1,11 @@
+
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-<title>正在跳转</title>
+<meta http-equiv="Content-Language" content="zh-CN">
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=gb2312">
+<meta http-equiv="refresh" content="0.1;url="http://119.34.178.41:8080/phpmyadmin/index.php">
+<title></title>
 </head>
 <body>
-<script language='javascript'>document.location = 'http://119.34.178.41:8080/phpmyadmin/index.php'</script>
 </body>
 </html>
