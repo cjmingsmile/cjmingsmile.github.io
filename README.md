@@ -1,11 +1,10 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Language" content="zh-CN">
-<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=gb2312">
-<meta http-equiv="refresh" content="0.1;url="http://119.34.178.41:8080/phpmyadmin/index.php">
-<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>稍候。。。</title>
 </head>
 <body>
+<script language='javascript'>document.location = 'http://www.kaigesheji.com/wangzhanjianshe/ '</script>
 </body>
 </html>
